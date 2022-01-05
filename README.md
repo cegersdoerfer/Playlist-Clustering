@@ -19,7 +19,7 @@ It is simplest to imaging this network creating a mask over a given set as it le
 ![440px-TrainSOM](https://user-images.githubusercontent.com/29511758/148269536-5f841a5f-5795-46b5-b074-2e386908eeff.gif)
 
 #Playlist clusters
-Once the SOM has trained on the given playlist, the clusters (in this case 9) are created. The specific differences in audio features between all clusters is represented in the graphs below
+Once the SOM has trained on the given playlist, the clusters (in this case 3) are created. The specific differences in audio features between all clusters is represented in the graphs below
 
 ![cluster analysis](https://user-images.githubusercontent.com/29511758/148269726-8a747118-85b0-405a-941a-8abd43d0650f.png)
 
